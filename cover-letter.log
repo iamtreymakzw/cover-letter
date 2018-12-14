@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.1)  14 DEC 2018 12:37
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.1)  14 DEC 2018 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1092,7 +1092,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip78
 )
-LaTeX Info: Redefining \FA on input line 164.
+LaTeX Info: Redefining \FA on input line 147.
 \g__fontspec_family_Roboto_int=\count295
 )
 No file cover-letter.aux.
@@ -1358,7 +1358,7 @@ Package rerunfilecheck Info: Checksums for `cover-letter.out':
 Here is how much of TeX's memory you used:
  38161 strings out of 492970
  755423 string characters out of 6133938
- 948716 words of memory out of 5000000
+ 948753 words of memory out of 5000000
  41679 multiletter control sequences out of 15000+600000
  533355 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
