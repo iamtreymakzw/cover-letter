@@ -1,1 +1,1 @@
-# cover-letter
+# cover-letter-template
